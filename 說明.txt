@@ -1,0 +1,4 @@
+解決gitlab commit失敗問題
+把.profile檔案放到
+C:\Users\Ian
+資料夾內
